@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'avara';
-    src: url('/fonts/Avara-Bold.eot');
+    src: url('fonts/Avara-Bold.eot');
     font-weight: normal;
     font-style: normal;
 
@@ -8,7 +8,7 @@
 
 @font-face {
     font-family: 'abhaya';
-    src: url('/fonts/AbhayaLibre-Regular.ttf');
+    src: url('fonts/AbhayaLibre-Regular.ttf');
     font-weight: normal;
     font-style: normal;
 }
