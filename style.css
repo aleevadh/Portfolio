@@ -1,6 +1,7 @@
 @font-face {
     font-family: 'avara';
-    src: url('fonts/Avara-Bold.woff2') format('woff2'),
+    src: url('font/avara.ttf') format('truetype'),
+         url('fonts/Avara-Bold.woff2') format('woff2'),
          url('fonts/Avara-Bold.woff') format('woff'),  
          url('fonts/Avara-Bold.eot') format('embedded-opentype'); 
     font-weight: normal;
