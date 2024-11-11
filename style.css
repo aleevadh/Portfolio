@@ -1,0 +1,99 @@
+@font-face {
+    font-family: 'avara';
+    src: url('/fonts/Avara-Bold.eot');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'abhaya';
+    src: url('/fonts/AbhayaLibre-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+* {
+    font-family: "abhaya";
+}
+
+
+h1 {
+    font-family: "avara";
+}
+
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    letter-spacing: 1.20;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 24px;
+    letter-spacing: 1.20;
+    margin-bottom: 0px;
+}
+
+h3 {
+    margin: 5px 10px 0px 0px;
+    font-size: 15px;
+    letter-spacing: 2;
+    margin-bottom: 0px;
+}
+
+
+p {
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+#wrapper {
+    float: left;
+    max-width: 1000px;
+    min-width: 800px;
+    margin: 0px 0px 50px 100px;
+}
+
+.item {
+    float: left;
+    width: 100%;
+    margin-top: 50px;
+}
+
+.textWrapper {
+    margin-top: 10px;
+    float: left;
+    width: 50%;
+}
+
+p {
+    margin: 5px 20px 20px 0px;
+}
+
+a {
+    color: #000000;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.stretcher {
+    height: 510px;
+}
+
+.images {
+    margin-top: 5px;
+    overflow: auto;
+    overflow-y: hidden;
+    height: 410px;
+    white-space: nowrap;
+}
+
+img {
+    height: 400px;
+}
