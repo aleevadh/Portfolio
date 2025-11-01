@@ -58,7 +58,7 @@ p {
     margin-top: 20px;
 }
 
-.textWrapper {
+.text {
     margin-top: -10px;
     float: left;
     width: 50%;
@@ -91,6 +91,7 @@ a:hover {
 img {
     height: 400px;
 }
+
 
 
 
