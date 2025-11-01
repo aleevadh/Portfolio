@@ -4,16 +4,11 @@
          url('fonts/Avara-Bold.woff2') format('woff2'),
          url('fonts/Avara-Bold.woff') format('woff'),  
          url('fonts/Avara-Bold.eot') format('embedded-opentype'); 
-    font-weight: normal;
-    font-style: normal;
-
 }
 
 @font-face {
     font-family: 'abhaya';
     src: url('fonts/AbhayaLibre-Regular.ttf');
-    font-weight: normal;
-    font-style: normal;
 }
 
 
@@ -96,6 +91,7 @@ a:hover {
 img {
     height: 400px;
 }
+
 
 
 
