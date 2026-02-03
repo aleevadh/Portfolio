@@ -23,7 +23,7 @@ h2, h3, p, a {
 
 h1 {
     font-family: "avara";
-    font-size: 50px;
+    font-size: 60px;
     font-weight: bold;
     letter-spacing: 1.20;
     margin-top: 40px;
@@ -95,6 +95,7 @@ a:hover {
 img {
     height: 400px;
 }
+
 
 
 
