@@ -12,6 +12,10 @@
 }
 
 
+body {
+      background-color: #ffd0d7;
+}
+
 h2, h3, p, a {
     font-family: "abhaya";
 }
@@ -91,6 +95,7 @@ a:hover {
 img {
     height: 400px;
 }
+
 
 
 
