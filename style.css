@@ -108,7 +108,7 @@ img {
 
 /* width */
 ::-webkit-scrollbar {
-  width: 10px;
+  width: 20px;
 }
 
 /* track */
@@ -120,6 +120,7 @@ img {
 ::-webkit-scrollbar-thumb {
   background: #FFABAB; 
 }
+
 
 
 
