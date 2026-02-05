@@ -11,6 +11,11 @@
     src: url('fonts/AbhayaLibre-Regular.ttf');
 }
 
+@font-face {
+    font-family: 'pixel';
+    src: url('fonts/OldEnglishGothicPixel.ttf');
+}
+
 
 body {
       background-color: #FFE9E5;
@@ -22,7 +27,7 @@ h2, h3, p, a {
 
 
 h1 {
-    font-family: "avara";
+    font-family: "pixel";
     font-size: 60px;
     font-weight: bold;
     letter-spacing: 1.20;
@@ -110,6 +115,7 @@ img {
 ::-webkit-scrollbar-thumb {
   background: #FFABAB; 
 }
+
 
 
 
