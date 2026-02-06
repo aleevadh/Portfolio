@@ -23,7 +23,7 @@
 
 
 body {
-      background-color: #FFE9E5;
+      background-color: #ffe5e8;
 }
 
 h2, h3, p, a {
@@ -120,6 +120,7 @@ img {
 ::-webkit-scrollbar-thumb {
   background: #FFABAB; 
 }
+
 
 
 
